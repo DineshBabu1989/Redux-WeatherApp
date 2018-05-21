@@ -17,7 +17,7 @@ There are two methods for getting started with this repo.
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-git clone
+git clone https://github.com/DineshBabu1989/Redux-WeatherApp.git
 cd Redux-WeatherApp
 npm install
 npm start
